@@ -1,0 +1,3 @@
+app/style/*.css
+app/bower_components
+node_modules/
